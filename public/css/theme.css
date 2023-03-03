@@ -38,16 +38,16 @@ h2,h3,h5 {
 }
 
 table {
-    border:1px solid;
+    border:1px ;
     width: 100%;
     max-width: 800px;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
 }
 
 th, td {
     padding: 10px;
     text-align: left;
-    border-bottom: 1px solid;
+    border-bottom: 1px;
     margin-bottom: 10px;
   }
     
