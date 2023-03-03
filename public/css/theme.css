@@ -38,7 +38,7 @@ h2,h3,h5 {
 }
 
 table {
-    border: 10px;
+    border:1px solid black;
     width: 100%;
     max-width: 800px;
     margin: 0 auto;
