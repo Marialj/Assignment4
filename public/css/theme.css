@@ -38,7 +38,7 @@ h2,h3,h5 {
 }
 
 table {
-    border:1px;
+    border:1px solid;
     width: 100%;
     max-width: 800px;
 }
@@ -46,7 +46,7 @@ table {
 th, td {
     padding: 10px;
     text-align: left;
-    border-bottom: 1px;
+    border-bottom: 1px solid;
     margin-bottom: 10px;
   }
     
